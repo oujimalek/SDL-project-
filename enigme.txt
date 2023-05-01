@@ -1,0 +1,15 @@
+Q1:la_capitale_de_la_Tunisie_est:
+tunis
+sousse
+carthage
+sfax
+Q2:les_gouvernorats_en_Tunisie_sont:
+24
+22
+23
+27
+Q3:la_langue_dominante_en_Tunisie_est:
+le-tunisien
+le_français
+l_anglais
+l_arabe

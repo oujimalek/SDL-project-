@@ -1,0 +1,4 @@
+compilation:
+gcc main.c perso.c  background.c fonction.c minimap.c enigme_fichier.c bounding_box.c -o prog -lSDL -lSDL_ttf -lSDL_image -lSDL_mixer
+éxécution:
+./prog
